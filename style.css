@@ -1,0 +1,15 @@
+#hh {
+    display:flex;
+
+}
+
+input {
+    border:0.3px solid black;
+    
+}
+input:invalid {
+    background-color:  rgb(243, 188, 188);
+}
+input:valid {
+    background-color: rgb(188, 243, 188);
+}
